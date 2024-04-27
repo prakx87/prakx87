@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prakx87
 - 👀 I’m interested in Devops technology
-- 🌱 I’m currently learning advanced Terraform & CI/CD
+- 🌱 I’m currently using Python and Golang to build new tools
 - 💞️ I’m looking to collaborate on anything related to Devops
 - 📫 How to reach me: prakx1987@gmail.com
 
